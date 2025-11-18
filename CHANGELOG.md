@@ -1,16 +1,17 @@
 # mixlib-authentication Changelog
 
-<!-- latest_release 3.2.0 -->
-## [v3.2.0](https://github.com/chef/mixlib-authentication/tree/v3.2.0) (2025-06-06)
+<!-- latest_release 3.2.1 -->
+## [v3.2.1](https://github.com/chef/mixlib-authentication/tree/v3.2.1) (2025-11-18)
 
 #### Merged Pull Requests
-- Updating for Ruby 3.4 and Cookstyle [#62](https://github.com/chef/mixlib-authentication/pull/62) ([johnmccrae](https://github.com/johnmccrae))
+- set up ai assisted development workflow [#67](https://github.com/chef/mixlib-authentication/pull/67) ([rishichawda](https://github.com/rishichawda))
 <!-- latest_release -->
 
 <!-- release_rollup since=3.0.10 -->
 ### Changes not yet released to rubygems.org
 
 #### Merged Pull Requests
+- set up ai assisted development workflow [#67](https://github.com/chef/mixlib-authentication/pull/67) ([rishichawda](https://github.com/rishichawda)) <!-- 3.2.1 -->
 - Updating for Ruby 3.4 and Cookstyle [#62](https://github.com/chef/mixlib-authentication/pull/62) ([johnmccrae](https://github.com/johnmccrae)) <!-- 3.2.0 -->
 - Migrate from Chefstyle to Cookstyle [#61](https://github.com/chef/mixlib-authentication/pull/61) ([dafyddcrosby](https://github.com/dafyddcrosby)) <!-- 3.1.2 -->
 - [CI] Drop EOL Rubies [#60](https://github.com/chef/mixlib-authentication/pull/60) ([dafyddcrosby](https://github.com/dafyddcrosby)) <!-- 3.1.1 -->
